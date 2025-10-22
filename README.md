@@ -20,6 +20,8 @@ Utilizei o Gemini para pesquisar sobre as "10 dicas para ter sucesso com IA gene
 
 O e-book apresenta um conteúdo envolvente e visualmente rico, demonstrando 10 dicas para planejar estratégias e ter sucesso com IA generativa no marketing digital. O produto final é uma prova da colaboração eficiente entre a criatividade humana e as ferramentas de IAG.
 
+LINK PARA O E-BOOK AQUI: https://partyrock.aws/home
+
 💭 Reflexão
 
 Criar um ebook foi ótimo para o meu desenvolvimento de conhecimento da aplicação da IA degenerativa para maximizar meu aprendizado e resultados, reforçando como a tecnologia pode ser uma aliada poderosa na produção de conteúdo de alta qualidade de maneira mais rápida e eficiente.
