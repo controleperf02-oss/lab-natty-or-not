@@ -20,7 +20,7 @@ Utilizei o Gemini para pesquisar sobre as "10 dicas para ter sucesso com IA gene
 
 O e-book apresenta um conteúdo envolvente e visualmente rico, demonstrando 10 dicas para planejar estratégias e ter sucesso com IA generativa no marketing digital. O produto final é uma prova da colaboração eficiente entre a criatividade humana e as ferramentas de IAG.
 
-LINK PARA O E-BOOK AQUI: 
+LINK PARA O E-BOOK AQUI: https://github.com/controleperf02-oss/Ebook-10-Dicas-Essenciais-para-o-Sucesso-com-IA-Generativa-no-Marketing-Digital
 
 💭 Reflexão
 
